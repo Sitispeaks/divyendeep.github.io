@@ -10,7 +10,7 @@ var sections = [
 			sentence: "has programming experience with Java, Python and C++",
 		},
 		{
-			sentence: "has worked with many JAVA frameworks",
+			sentence: "has worked with many Microservice  architecture frameworks",
 		},
 		{
 
@@ -18,9 +18,6 @@ var sections = [
 
 		},
 
-		{
-			sentence:"has strong communication skills",
-		},
 		{
             sentence:"has ability to present findings to a non-technical audience.",
 
@@ -38,6 +35,8 @@ var sections = [
 		{	sentence: "is not so secretly in love with Game of Thrones",
 		},
 		{	sentence: "is thinking what to write next",
+		},
+		{	sentence: "is fond of food and travelling",
 		},
 		{	sentence: "is thinking of ways to be famous",
 		},
